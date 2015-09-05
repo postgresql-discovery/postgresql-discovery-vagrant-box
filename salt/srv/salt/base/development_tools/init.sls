@@ -1,4 +1,4 @@
-php5-fpm:
+development_tools:
     pkg.installed:
         - pkgs:
             - libreadline6-dev
