@@ -1,4 +1,4 @@
-development_tools:
+libs:
     pkg.installed:
         - pkgs:
             - libreadline6-dev

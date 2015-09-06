@@ -4,4 +4,4 @@ base:
         - git
         - workspace
         - postgresql_repo
-        - development_tools
+        - libs
