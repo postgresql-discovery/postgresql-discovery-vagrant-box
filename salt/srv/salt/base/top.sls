@@ -5,3 +5,4 @@ base:
         - workspace
         - postgresql_repo
         - libs
+        - gdb
